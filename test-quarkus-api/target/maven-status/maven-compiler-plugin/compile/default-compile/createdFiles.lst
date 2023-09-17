@@ -1,0 +1,5 @@
+com\edu\gt\dto\BookDto.class
+com\edu\gt\resource\BookResource.class
+com\edu\gt\repository\BookRepository.class
+META-INF\panache-archive.marker
+com\edu\gt\model\Book.class
